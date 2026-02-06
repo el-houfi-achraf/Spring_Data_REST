@@ -1,4 +1,4 @@
-# TP11 - Spring Data REST
+# Spring Data REST
 
 ## Description
 Application Spring Boot utilisant Spring Data REST pour exposer automatiquement des services RESTful pour la gestion de comptes bancaires et de clients.
